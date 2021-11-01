@@ -1,6 +1,6 @@
 ### Jumi's Github
 
-Hi there 👋 I'm Front-End Developer using ReacjJs.
+Hi there 👋 I'm Front-End Developer using ReactJs.
 
 - 🎓 Dona-A University Student
 - 💻 FrontEnd Developer
