@@ -6,3 +6,6 @@ Hi there 👋 I'm Front-End Developer using ReacjJs.
 - 💻 Front-End Developer
 - 🥇 ReactJs, Html, Css, JavaScript
 - 🥈 NextJs, Redux, Scss
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmzmmmzm12&show_icons=true&theme=radical)
