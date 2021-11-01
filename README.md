@@ -3,7 +3,7 @@
 Hi there 👋 I'm Front-End Developer using ReacjJs.
 
 - 🎓 Dona-A University Student
-- 💻 Front-End Developer
+- 💻 FrontEnd Developer
 - 🥇 ReactJs, Html, Css, JavaScript
 - 🥈 NextJs, Redux, Scss
 
